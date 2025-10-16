@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "2b0a1d9a6ea0b2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "38dcd1e591581cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bad3bc50b4cc710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目管理/pip 指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pip 指令"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c37bd0b71687f590",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b640c6c74836ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ac415139ce91c40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fc4d0dff2c6ef342",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "09f3476f9876651b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8e5dd475615b9a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8b47d78f8359549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d3f4eaf8a0d6ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程实践(python)/全局与venv.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "全局与venv 的反向链接列表"
+            }
+          },
+          {
+            "id": "355ad5e562356629",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python工程实践/爬虫.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "爬虫 的出链列表"
+            }
+          },
+          {
+            "id": "1b5e67784f05abf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "75e48b02464c7e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "从零理解cpu/加法器及ALU.md"
+              },
+              "icon": "lucide-list",
+              "title": "加法器及ALU 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1bad3bc50b4cc710",
+  "lastOpenFiles": [
+    "git指南/git 网络问题.md",
+    "Python 库.md",
+    "项目管理/venv.md",
+    "项目管理/pip 指令.md",
+    "项目管理/虚拟环境.md",
+    "git指南",
+    "项目管理",
+    "frv.md",
+    "python库(模块).md",
+    "编程实践(python)/pip指令.md",
+    "计算机组成原理/未命名.md",
+    "编程实践(python)/全局与venv.md",
+    "编程实践(python)/venv使用指南.md",
+    "2025-02-09.md",
+    "未命名.canvas",
+    "coding 常识/库的兼容性.md",
+    "coding 常识/爬虫.md",
+    "coding 常识/lib文件夹.md",
+    "coding 常识/API 与 库.md",
+    "coding 常识/环境变量.md",
+    "编程实践/编译操作.md",
+    "linux操作系统/linux内核.md",
+    "linux操作系统/GPL.md",
+    "linux操作系统/GNU.md",
+    "从零理解cpu/存储的实现.md",
+    "从零理解cpu/实现编程功能.md",
+    "计算机数据保存/Unicode.md",
+    "计算机数据保存/UTF-8.md",
+    "未命名 1",
+    "编程实践(python)",
+    "从零理解cpu/图片附件/Pasted image 20241019153007.jpg",
+    "从零理解cpu/图片附件/Pasted image 20241019153211.png",
+    "从零理解cpu/图片附件/640.gif",
+    "从零理解cpu/图片附件/Pasted image 20241019161627.jpg",
+    "从零理解cpu/图片附件/Pasted image 20241019154434.jpg",
+    "coding 常识",
+    "计算机组成原理",
+    "Pasted image 20241019153106.jpg",
+    "Pasted image 20241019153043.jpg",
+    "从零理解计算机/图片附件/Pasted image 20240921183914.png",
+    "从零理解计算机/图片附件/Pasted image 20240921183722.png",
+    "linux操作系统",
+    "电子设备使用/windows及BIOS",
+    "电子设备使用/电脑启动的步骤",
+    "电子设备使用/压缩这件事",
+    "理解计算机/图片附件/640.jpg"
+  ]
+}

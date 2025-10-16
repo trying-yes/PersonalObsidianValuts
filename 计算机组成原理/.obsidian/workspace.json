@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "2b0a1d9a6ea0b2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bff03639822a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c83eef0a5e8ccf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机体系结构/微架构/微码 硬布线.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微码 硬布线"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c37bd0b71687f590",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b640c6c74836ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ac415139ce91c40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fc4d0dff2c6ef342",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "63ac128ad40d5e4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "8e5dd475615b9a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8b47d78f8359549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d3f4eaf8a0d6ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程实践(python)/全局与venv.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "全局与venv 的反向链接列表"
+            }
+          },
+          {
+            "id": "355ad5e562356629",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python工程实践/爬虫.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "爬虫 的出链列表"
+            }
+          },
+          {
+            "id": "1b5e67784f05abf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "75e48b02464c7e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "从零理解cpu/加法器及ALU.md"
+              },
+              "icon": "lucide-list",
+              "title": "加法器及ALU 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6c83eef0a5e8ccf9",
+  "lastOpenFiles": [
+    "计算机体系结构/微架构/微架构.md",
+    "计算机体系结构/微架构/微码 硬布线.md",
+    "计算机体系结构/微架构/机器码对比.md",
+    "计算机理解/cpu寻址.md",
+    "计算机理解/cpu位数.md",
+    "环境变量/java环境机制.md",
+    "环境变量/java环境机制.md",
+    "环境变量",
+    "编程工具链/编译工具/编译工具链.md",
+    "编程工具链/编译工具/编译形式.md",
+    "编程工具链/编译工具/3 解释器字节码型.md",
+    "编程工具链/编译工具/1 原生编译型.md",
+    "环境变量/为什么默认path.md",
+    "环境变量/path与自建环境变量.md",
+    "环境变量/环境变量.md",
+    "编程工具链/命令行工具/GUI与CLI.md",
+    "编程工具链/命令行工具/软件运行的不同.md",
+    "计算机理解/cpu乱序执行.md",
+    "编程工具链/命令行工具",
+    "计算机体系结构/寄存器/物理寄存器与逻辑寄存器.md",
+    "计算机体系结构/指令集架构/ISA构成.md",
+    "计算机体系结构/寄存器/寄存器数量.md",
+    "计算机体系结构/寄存器/寄存器容量.md",
+    "计算机理解/cpu核心构成.md",
+    "存储/存储单位.md",
+    "存储/存储设备.md",
+    "计算机理解/cpu指令周期.md",
+    "计算机理解/虚拟内存.md",
+    "计算机理解",
+    "编程工具链/GCC与LLVM",
+    "编程工具链/运行环境",
+    "操作系统",
+    "操作系统/windows",
+    "计算机体系结构/指令集架构/指令集生态",
+    "宏观理解cpu/指令集架构/ARM/双重变异型",
+    "宏观理解cpu/指令集架构/机器码一样吗",
+    "从零理解cpu/附件/640.gif",
+    "从零理解cpu/附件/Pasted image 20241019153007.jpg",
+    "从零理解cpu/附件/Pasted image 20241019153211.png",
+    "从零理解cpu/附件/Pasted image 20241019154434.jpg",
+    "从零理解cpu/附件/Pasted image 20241019161627.jpg",
+    "未命名.canvas",
+    "Pasted image 20241019153106.jpg",
+    "Pasted image 20241019153043.jpg",
+    "从零理解计算机/图片附件/Pasted image 20240921183914.png",
+    "从零理解计算机/图片附件/Pasted image 20240921183722.png",
+    "理解计算机/图片附件/640.jpg"
+  ]
+}
