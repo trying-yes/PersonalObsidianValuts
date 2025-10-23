@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目管理/pip 指令.md",
+                "file": "项目管理/传统包管理/虚拟环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pip 指令"
+              "title": "虚拟环境"
             }
           }
         ]
@@ -164,13 +164,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1bad3bc50b4cc710",
+  "active": "8ac415139ce91c40",
   "lastOpenFiles": [
-    "git指南/git 网络问题.md",
+    "项目管理/uv包管理",
+    "项目管理/传统包管理/pip 指令.md",
+    "项目管理/uv包管理/UV.md",
+    "项目管理/传统包管理/venv.md",
+    "项目管理/传统包管理",
     "Python 库.md",
-    "项目管理/venv.md",
-    "项目管理/pip 指令.md",
-    "项目管理/虚拟环境.md",
+    "项目管理/传统包管理/虚拟环境.md",
+    "git指南/git 网络问题.md",
     "git指南",
     "项目管理",
     "frv.md",
@@ -193,7 +196,6 @@
     "从零理解cpu/存储的实现.md",
     "从零理解cpu/实现编程功能.md",
     "计算机数据保存/Unicode.md",
-    "计算机数据保存/UTF-8.md",
     "未命名 1",
     "编程实践(python)",
     "从零理解cpu/图片附件/Pasted image 20241019153007.jpg",
@@ -210,7 +212,6 @@
     "linux操作系统",
     "电子设备使用/windows及BIOS",
     "电子设备使用/电脑启动的步骤",
-    "电子设备使用/压缩这件事",
     "理解计算机/图片附件/640.jpg"
   ]
 }

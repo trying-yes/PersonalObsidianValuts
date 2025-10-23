@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "显示原理/分时复用.md",
+                "file": "存储/DRAM   SRAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分时复用"
+              "title": "DRAM   SRAM"
             }
           }
         ]
@@ -163,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ac415139ce91c40",
+  "active": "f084b6ecfe7506a3",
   "lastOpenFiles": [
+    "显示原理/分时复用.md",
     "显示原理/1602A LCD.md",
     "电源理解/1 电压产生.md",
     "usb接口与协议/USB线材快充.md",
@@ -194,7 +195,6 @@
     "字符编码/字符编码.md",
     "字符编码/UTF-8.md",
     "显示原理/eDPI调节.md",
-    "显示原理/分时复用.md",
     "显示原理/现代显示屏幕.md",
     "显示原理",
     "移动通讯/GSM.md",

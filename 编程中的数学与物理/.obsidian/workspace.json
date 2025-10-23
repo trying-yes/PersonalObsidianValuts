@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39b2476fde962e34",
+        "id": "38dcd1e591581cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "a696b5f152de1208",
+            "id": "1bad3bc50b4cc710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机理解/cpu寻址.md",
+                "file": "微积分的诞生与严谨化/补充：0的那些事.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cpu寻址"
+              "title": "补充：0的那些事"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "63ac128ad40d5e4d",
+            "id": "09f3476f9876651b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "right": {
     "id": "8e5dd475615b9a4e",
@@ -164,54 +164,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a696b5f152de1208",
+  "active": "8ac415139ce91c40",
   "lastOpenFiles": [
-    "计算机理解/cpu位数.md",
-    "计算机理解/cpu乱序执行.md",
-    "计算机理解/cpu核心构成.md",
-    "计算机理解/虚拟内存.md",
-    "计算机体系结构/微架构/微架构.md",
-    "计算机体系结构/微架构/微码 硬布线.md",
-    "计算机体系结构/微架构/机器码对比.md",
-    "计算机理解/cpu寻址.md",
-    "环境变量/java环境机制.md",
-    "环境变量/java环境机制.md",
-    "环境变量",
-    "编程工具链/编译工具/编译工具链.md",
-    "编程工具链/编译工具/编译形式.md",
-    "编程工具链/编译工具/3 解释器字节码型.md",
-    "编程工具链/编译工具/1 原生编译型.md",
-    "环境变量/为什么默认path.md",
-    "环境变量/path与自建环境变量.md",
-    "环境变量/环境变量.md",
-    "编程工具链/命令行工具/GUI与CLI.md",
-    "编程工具链/命令行工具/软件运行的不同.md",
-    "编程工具链/命令行工具",
-    "计算机体系结构/寄存器/物理寄存器与逻辑寄存器.md",
-    "计算机体系结构/指令集架构/ISA构成.md",
-    "计算机体系结构/寄存器/寄存器数量.md",
-    "计算机体系结构/寄存器/寄存器容量.md",
-    "存储/存储单位.md",
-    "存储/存储设备.md",
-    "计算机理解/cpu指令周期.md",
-    "计算机理解",
-    "编程工具链/GCC与LLVM",
-    "编程工具链/运行环境",
-    "操作系统",
-    "操作系统/windows",
-    "计算机体系结构/指令集架构/指令集生态",
-    "宏观理解cpu/指令集架构/ARM/双重变异型",
-    "宏观理解cpu/指令集架构/机器码一样吗",
-    "从零理解cpu/附件/640.gif",
-    "从零理解cpu/附件/Pasted image 20241019153007.jpg",
-    "从零理解cpu/附件/Pasted image 20241019153211.png",
-    "从零理解cpu/附件/Pasted image 20241019154434.jpg",
-    "从零理解cpu/附件/Pasted image 20241019161627.jpg",
+    "微积分的诞生与严谨化/补充：简单讲讲洛必达.md",
+    "微积分的诞生与严谨化/补充：0比0就是白解了.md",
+    "微积分的诞生与严谨化/3 继续回答  (  回避吗？).md",
+    "微积分的诞生与严谨化/4 其实是数学本质.md",
+    "微积分的诞生与严谨化/2 刻意回避分母为0吗.md",
+    "微积分的诞生与严谨化/1 第二次数学危机.md",
+    "电源理解/以太网线连接.md",
+    "电源理解/5 网线回路.md",
+    "电源理解/3 回路在哪.md",
+    "电源理解/2 电荷平衡.md",
+    "微积分的诞生与严谨化/补充：0的那些事.md",
+    "微积分的诞生与严谨化",
+    "git指南/git 网络问题.md",
+    "Python 库.md",
+    "项目管理/venv.md",
+    "项目管理/pip 指令.md",
+    "项目管理/虚拟环境.md",
+    "git指南",
+    "项目管理",
+    "frv.md",
+    "python库(模块).md",
+    "编程实践(python)/pip指令.md",
+    "计算机组成原理/未命名.md",
+    "编程实践(python)/全局与venv.md",
+    "编程实践(python)/venv使用指南.md",
+    "2025-02-09.md",
     "未命名.canvas",
+    "coding 常识/库的兼容性.md",
+    "coding 常识/爬虫.md",
+    "coding 常识/lib文件夹.md",
+    "未命名 1",
+    "编程实践(python)",
+    "从零理解cpu/图片附件/Pasted image 20241019153007.jpg",
+    "从零理解cpu/图片附件/Pasted image 20241019153211.png",
+    "从零理解cpu/图片附件/640.gif",
+    "从零理解cpu/图片附件/Pasted image 20241019161627.jpg",
+    "从零理解cpu/图片附件/Pasted image 20241019154434.jpg",
+    "coding 常识",
+    "计算机组成原理",
     "Pasted image 20241019153106.jpg",
     "Pasted image 20241019153043.jpg",
     "从零理解计算机/图片附件/Pasted image 20240921183914.png",
     "从零理解计算机/图片附件/Pasted image 20240921183722.png",
+    "linux操作系统",
+    "电子设备使用/windows及BIOS",
+    "电子设备使用/电脑启动的步骤",
     "理解计算机/图片附件/640.jpg"
   ]
 }
