@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "为何同时需要ip与mac.md",
+                "file": "路由聚合.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为何同时需要ip与mac"
+              "title": "路由聚合"
             }
           }
         ]
@@ -164,8 +164,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ac415139ce91c40",
+  "active": "6cc680e721546dd8",
   "lastOpenFiles": [
+    "网络机构分级.md",
+    "路由聚合.md",
+    "内外网的本质.md",
+    "技术上的子网.md",
+    "内外网的边界：本质是啥.md",
+    "无法分类暂时/链路层.md",
+    "无法分类暂时",
+    "无法分类暂时/ip兼容层.md",
+    "无法分类暂时/为何同时需要ip与mac.md",
+    "无法分类暂时/安全协议.md",
     "机场/clash/V2ray与clash核心区别.md",
     "机场/clash/clash meta.md",
     "机场/clash/clash配置界面.md",
@@ -173,10 +183,6 @@
     "机场/混淆澄清/VPN称呼来源.md",
     "机场/混淆澄清/VPN本质.md",
     "机场/混淆澄清/同类隧道技术.md",
-    "ip兼容层.md",
-    "为何同时需要ip与mac.md",
-    "链路层.md",
-    "安全协议.md",
     "机场/clash/常用代理协议.md",
     "机场/混淆澄清/翻墙名词混淆解释.md",
     "机场/额外补充/IOS端.md",
@@ -192,17 +198,11 @@
     "未命名.canvas",
     "集线器/水晶头线序.md",
     "ip与端口号.md",
-    "集线器/接线设计.md",
-    "集线器与网线/网络接口.md",
-    "交换机.md",
-    "集线器与网线/直通线与交叉线.md",
     "集线器",
     "链路层",
-    "环境变量/java环境机制.md",
     "环境变量",
     "编程工具链/命令行工具",
     "计算机理解",
-    "编程工具链/GCC与LLVM",
     "从零理解cpu/附件/640.gif",
     "从零理解cpu/附件/Pasted image 20241019153007.jpg",
     "从零理解cpu/附件/Pasted image 20241019153211.png",
