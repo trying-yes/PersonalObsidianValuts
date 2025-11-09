@@ -164,16 +164,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ac415139ce91c40",
+  "active": "1bad3bc50b4cc710",
   "lastOpenFiles": [
+    "git指南/git 网络问题.md",
+    "项目管理/传统包管理/虚拟环境.md",
     "项目管理/uv包管理",
     "项目管理/传统包管理/pip 指令.md",
     "项目管理/uv包管理/UV.md",
     "项目管理/传统包管理/venv.md",
     "项目管理/传统包管理",
     "Python 库.md",
-    "项目管理/传统包管理/虚拟环境.md",
-    "git指南/git 网络问题.md",
     "git指南",
     "项目管理",
     "frv.md",
@@ -211,7 +211,6 @@
     "从零理解计算机/图片附件/Pasted image 20240921183722.png",
     "linux操作系统",
     "电子设备使用/windows及BIOS",
-    "电子设备使用/电脑启动的步骤",
     "理解计算机/图片附件/640.jpg"
   ]
 }
