@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目管理/传统包管理/虚拟环境.md",
+                "file": "Python 库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "虚拟环境"
+              "title": "Python 库"
             }
           }
         ]
@@ -164,13 +164,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1bad3bc50b4cc710",
+  "active": "8ac415139ce91c40",
   "lastOpenFiles": [
-    "git指南/git 网络问题.md",
+    "项目管理/uv包管理/UV具体使用.md",
+    "项目管理/uv包管理/UV介绍.md",
     "项目管理/传统包管理/虚拟环境.md",
+    "git指南/git 网络问题.md",
     "项目管理/uv包管理",
     "项目管理/传统包管理/pip 指令.md",
-    "项目管理/uv包管理/UV.md",
     "项目管理/传统包管理/venv.md",
     "项目管理/传统包管理",
     "Python 库.md",
