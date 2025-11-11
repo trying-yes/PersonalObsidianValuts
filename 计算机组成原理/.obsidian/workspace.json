@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机理解/cpu寻址.md",
+                "file": "操作系统/windows/dll 文件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cpu寻址"
+              "title": "dll 文件"
             }
           }
         ]
@@ -164,16 +164,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a696b5f152de1208",
+  "active": "8ac415139ce91c40",
   "lastOpenFiles": [
-    "计算机理解/cpu位数.md",
     "计算机理解/cpu乱序执行.md",
+    "计算机理解/cpu位数.md",
+    "计算机理解/cpu寻址.md",
     "计算机理解/cpu核心构成.md",
     "计算机理解/虚拟内存.md",
     "计算机体系结构/微架构/微架构.md",
     "计算机体系结构/微架构/微码 硬布线.md",
     "计算机体系结构/微架构/机器码对比.md",
-    "计算机理解/cpu寻址.md",
     "环境变量/java环境机制.md",
     "环境变量/java环境机制.md",
     "环境变量",
