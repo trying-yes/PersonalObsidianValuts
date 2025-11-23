@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/windows/dll 文件.md",
+                "file": "字符编码/Unicode与UTF-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dll 文件"
+              "title": "Unicode与UTF-8"
             }
           }
         ]
@@ -166,6 +166,8 @@
   },
   "active": "8ac415139ce91c40",
   "lastOpenFiles": [
+    "字符编码/字符编码.md",
+    "操作系统/windows/dll 文件.md",
     "计算机理解/cpu乱序执行.md",
     "计算机理解/cpu位数.md",
     "计算机理解/cpu寻址.md",
@@ -192,8 +194,6 @@
     "计算机体系结构/寄存器/寄存器数量.md",
     "计算机体系结构/寄存器/寄存器容量.md",
     "存储/存储单位.md",
-    "存储/存储设备.md",
-    "计算机理解/cpu指令周期.md",
     "计算机理解",
     "编程工具链/GCC与LLVM",
     "编程工具链/运行环境",

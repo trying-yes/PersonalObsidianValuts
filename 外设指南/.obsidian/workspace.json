@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usb接口与协议/E-maker芯片.md",
+                "file": "存储/DRAM   SRAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E-maker芯片"
+              "title": "DRAM   SRAM"
             }
           }
         ]
@@ -163,14 +163,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ac415139ce91c40",
+  "active": "e9fb184882e30cac",
   "lastOpenFiles": [
+    "usb接口与协议/E-maker芯片.md",
     "充电/设备配合.md",
     "充电/电源适配器.md",
     "usb接口与协议/usb数据传输协议.md",
     "充电",
     "充电/USB线材快充.md",
-    "usb接口与协议/E-maker芯片.md",
     "移动通讯/蜂窝网络.md",
     "移动通讯/SIM卡/SIM 与 eSIM.md",
     "移动通讯/SIM卡/IMSI.md",
