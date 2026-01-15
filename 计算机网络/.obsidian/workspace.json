@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 网络层/？.md",
+                "file": "4 物理层/4 其余不常见链路层协议/链路层总览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "？"
+              "title": "链路层总览"
             }
           }
         ]
@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "加法器及ALU 的大纲"
             }
+          },
+          {
+            "id": "b6b3c9e418d8417b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,48 +171,50 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8ac415139ce91c40",
   "lastOpenFiles": [
+    "4 物理层/4 物理层.md",
+    "5 代理/5 代理.md",
+    "5 代理/1 clash/1 clash.md",
+    "5 代理/0 CFW起源/0 CFW起源.md",
+    "4 物理层/4 其余不常见链路层协议/链路层总览.md",
+    "4 物理层/2 以太网协议/以太网协议.md",
+    "4 物理层/1 wifi协议/wifi协议.md",
+    "3 网络层/ipv4与聚合/ipv4与聚合.md",
+    "3 网络层/3 网络层.md",
+    "2 传输层/2 传输层.md",
+    "1 应用层/1 应用层.md",
+    "0 计算机网络/0 计算机网络.md",
+    "1 应用层/TSL  SSL.md",
+    "5 代理/5 VPN/5 VPN.md",
+    "5 代理/4 代理技术详解/4 代理技术详解.md",
+    "5 代理/3 steam++/3 steam++.md",
+    "5 代理/2 ip购买/2 ip购买.md",
+    "5 代理/0 CFW起源/翻墙.md",
     "3 网络层/NginX.md",
     "3 网络层/？.md",
-    "3 网络层/内网与外网.md",
-    "3 网络层/端口作用.md",
-    "3 网络层/端口分配.md",
-    "3 网络层/ipv4与聚合/CIDR与路由聚合.md",
-    "5 代理/http代理？.md",
+    "5 代理/4 代理技术详解/http代理.md",
+    "5 代理/4 代理技术详解",
+    "5 代理/4 代理技术详解/常用代理技术框架.md",
+    "5 代理/0 CFW起源/VPN称呼来源.md",
+    "5 代理/5 VPN/VPN具体实现TUN.md",
+    "5 代理/5 VPN/VPN.md",
+    "5 代理/2 ip购买/指纹浏览器.md",
+    "5 代理/2 ip购买",
+    "5 代理/3 steam++",
     "3 网络层/ipv4与聚合",
-    "5 代理/常用代理协议.md",
-    "0 计算机网络/2 网络机构分级.md",
-    "0 计算机网络/1 传输层级.md",
-    "0 计算机网络/0 七层网络层次.md",
-    "5 代理/本地反代.md",
-    "3 网络层/ipv4与聚合/ip作用示范.md",
-    "3 网络层/ipv4与聚合/ip与mac配合.md",
-    "1 应用层/TSL  SSL.md",
-    "0 计算机网络/4 socket接口.md",
-    "5 代理/clash/clash.md",
-    "5 代理/clash/clash配置界面.md",
-    "5 代理/clash/clash meta.md",
-    "5 代理/VPN/VPN具体实现TUN.md",
-    "0 计算机网络/3 不同层级的网络代理.md",
-    "4 链路层/4 其余不常见链路层协议/链路层总览.md",
-    "4 链路层/4 其余不常见链路层协议/链路层总览.md",
-    "4 链路层/4 其余不常见链路层协议/链路层协议总述.md",
-    "4 链路层/3 移动通讯协议（LTE）/LTE(4G).md",
-    "4 链路层/3 移动通讯协议（LTE）",
-    "4 链路层/1 wifi协议/wifi协议.md",
-    "4 链路层/1 wifi协议",
-    "4 链路层/2 以太网协议/以太网线",
-    "4 链路层/4 其余不常见链路层协议",
+    "4 物理层/3 移动通讯协议（LTE）",
+    "4 物理层/1 wifi协议",
+    "4 物理层/2 以太网协议/以太网线",
+    "4 物理层/4 其余不常见链路层协议",
     "1 应用层",
     "未命名 1.base",
-    "未命名.base",
     "未命名.canvas",
-    "0 计算机网络",
-    "0 计算机网络/socket",
     "从零理解cpu/附件/640.gif",
     "从零理解cpu/附件/Pasted image 20241019153007.jpg",
     "从零理解cpu/附件/Pasted image 20241019153211.png",

@@ -6,46 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:从零理解计算机  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:电子设备使用/手柄引起的思考  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:电子设备使用/充电引发的思考  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:网络这些事  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.3461937716263,
-  "lineSizeMultiplier": 5,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.506920415224914,
-  "repelStrength": 11.1072664359862,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.7514342322277647,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.7514342322277628,
+  "close": false
 }

@@ -11,10 +11,14 @@
             "id": "1bad3bc50b4cc710",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "API思想/库.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "库"
             }
           }
         ]
@@ -160,23 +164,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1bad3bc50b4cc710",
+  "active": "8ac415139ce91c40",
   "lastOpenFiles": [
+    "windows文件管理/lib 文件夹.md",
+    "windows文件管理",
+    "API思想/库.md",
+    "API思想/binding.md",
+    "API思想/binging.md",
+    "API思想/API本质.md",
+    "API.md",
     "python项目管理/传统包管理/虚拟环境.md",
     "python项目管理/Python 库.md",
     "python项目管理/传统包管理/pip 指令.md",
     "python项目管理/传统包管理/venv.md",
     "uv包管理/UV具体使用.md",
     "uv包管理/UV介绍.md",
-    "API思想/API.md",
     "API思想",
     "编译工具/编译类型/编译类型.md",
     "编译工具/编译工具链.md",
     "编译工具/编译类型",
-    "API思想/运行环境/lib 文件夹.md",
     "移植工具",
     "常识构建",
-    "API思想/运行环境/库.md",
     "常识构建/命令行工具/GUI与CLI.md",
     "常识构建/命令行工具/软件运行的不同.md",
     "编译工具/GCC与LLVM/posix与win32.md",
@@ -189,15 +197,10 @@
     "常识构建/异构编程/代码执行位置.md",
     "编程工具链/GCC与LLVM/LLVM补充.md",
     "编译工具/GCC与LLVM/设计模式差异",
-    "常识构建/异构编程/异构设备调用.md",
-    "编译工具/编译类型/3 解释器字节码型.md",
-    "编译工具/编译类型/2 虚拟机字节码型.md",
-    "编译工具/编译类型/1 原生编译型.md",
     "移植工具/虚拟机",
     "移植工具/数据库",
     "常识构建/镜像格式",
     "移植工具/docker（容器）",
-    "编程工具链/项目管理",
     "未命名.canvas",
     "从零理解cpu/图片附件/Pasted image 20241019153007.jpg",
     "从零理解cpu/图片附件/Pasted image 20241019153211.png",
