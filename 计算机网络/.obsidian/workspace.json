@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 代理/3 steam++/本地反代.md",
+                "file": "0 计算机网络/2 网络机构分级.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地反代"
+              "title": "2 网络机构分级"
             }
           }
         ]
@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "本地反代 的大纲"
             }
+          },
+          {
+            "id": "a53a2f48b8a5dc7a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,13 +177,19 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b55f0c1c16a1f528",
+  "active": "8ac415139ce91c40",
   "lastOpenFiles": [
-    "1 应用层/TSL  SSL.md",
     "0 计算机网络/0 七层网络层次.md",
+    "0 计算机网络/1 传输层级.md",
+    "0 计算机网络/2 网络机构分级.md",
+    "0 计算机网络/3 不同层级的网络代理.md",
+    "socket接口.md",
+    "5 代理/3 steam++/本地反代.md",
+    "1 应用层/TSL  SSL.md",
     "5 代理/5 VPN/VPN.md",
     "5 代理/未命名.md",
     "5 代理/5 VPN/VPN具体实现TUN.md",
@@ -192,12 +209,7 @@
     "5 代理/4 代理技术详解/4 代理技术详解.md",
     "5 代理/3 steam++/3 steam++.md",
     "5 代理/2 ip购买/2 ip购买.md",
-    "5 代理/0 CFW起源/翻墙.md",
-    "3 网络层/NginX.md",
-    "3 网络层/？.md",
-    "5 代理/4 代理技术详解/http代理.md",
     "5 代理/4 代理技术详解",
-    "5 代理/4 代理技术详解/常用代理技术框架.md",
     "5 代理/2 ip购买",
     "5 代理/3 steam++",
     "3 网络层/ipv4与聚合",
