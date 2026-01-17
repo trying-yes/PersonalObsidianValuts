@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 计算机网络/0 七层网络层次.md",
+                "file": "6 自建服务器/socket接口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 七层网络层次"
+              "title": "socket接口"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 225.5
   },
   "right": {
     "id": "8e5dd475615b9a4e",
@@ -142,31 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 代理/3 steam++/本地反代.md",
+                "file": "6 自建服务器/socket接口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "本地反代 的大纲"
-            }
-          },
-          {
-            "id": "a53a2f48b8a5dc7a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "socket接口 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +170,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ac415139ce91c40",
+  "active": "b55f0c1c16a1f528",
   "lastOpenFiles": [
+    "6 自建服务器/服务器对外可被寻址/cloudeflare.md",
+    "6 自建服务器/服务器对外可被寻址/无公网ip.md",
+    "6 自建服务器/域名",
+    "6 自建服务器/服务器对外可被寻址",
+    "0 计算机网络/0 七层网络层次.md",
+    "6 自建服务器",
     "1 应用层/应用层加密协议/TSL  SSL.md",
     "1 应用层/应用层加密协议",
     "0 计算机网络/2 网络机构分级.md",
-    "0 计算机网络/0 七层网络层次.md",
     "0 计算机网络/1 传输层级.md",
     "0 计算机网络/3 不同层级的网络代理.md",
-    "socket接口.md",
+    "6 自建服务器/socket接口.md",
     "5 代理/3 steam++/本地反代.md",
     "5 代理/5 VPN/VPN.md",
     "5 代理/未命名.md",
@@ -206,17 +201,12 @@
     "1 应用层/1 应用层.md",
     "0 计算机网络/0 计算机网络.md",
     "5 代理/5 VPN/5 VPN.md",
-    "5 代理/4 代理技术详解/4 代理技术详解.md",
-    "5 代理/3 steam++/3 steam++.md",
     "5 代理/4 代理技术详解",
     "5 代理/2 ip购买",
     "5 代理/3 steam++",
     "3 网络层/ipv4与聚合",
     "4 链路层/3 移动通讯协议（LTE）",
     "4 链路层/1 wifi协议",
-    "4 链路层/2 以太网协议/以太网线",
-    "4 链路层/4 其余不常见链路层协议",
-    "1 应用层",
     "未命名.canvas",
     "从零理解cpu/附件/640.gif",
     "从零理解cpu/附件/Pasted image 20241019153007.jpg",

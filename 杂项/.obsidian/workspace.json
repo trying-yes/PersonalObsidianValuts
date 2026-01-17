@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38dcd1e591581cd2",
+        "id": "f860f15790fa5b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "1bad3bc50b4cc710",
+            "id": "e9fb184882e30cac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "编程中的数学与物理/图灵机/测试局限性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测试局限性"
             }
           }
         ]
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "09f3476f9876651b",
+            "id": "63ac128ad40d5e4d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程实践(python)/全局与venv.md",
+                "file": "编程中的数学与物理/图灵机/测试局限性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "全局与venv 的反向链接列表"
+              "title": "测试局限性 的反向链接列表"
             }
           },
           {
@@ -146,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,44 +163,48 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1bad3bc50b4cc710",
+  "active": "e9fb184882e30cac",
   "lastOpenFiles": [
-    "2026-01-15.md",
+    "编程中的数学与物理/电源理解/2 电荷平衡.md",
+    "usb接口与协议/E-maker芯片.md",
+    "充电/设备配合.md",
+    "充电/电源适配器.md",
+    "usb接口与协议/usb数据传输协议.md",
+    "充电",
+    "充电/USB线材快充.md",
+    "移动通讯/蜂窝网络.md",
+    "移动通讯/SIM卡/SIM 与 eSIM.md",
+    "移动通讯/SIM卡/IMSI.md",
+    "移动通讯/IMEI.md",
+    "移动通讯/GSM.md",
+    "存储/DRAM   SRAM.md",
+    "灵敏度与视角/windows系统调节.md",
+    "灵敏度与视角/补充：CS2 的 fov.md",
+    "灵敏度与视角/画面比例.md",
+    "灵敏度与视角/游戏画面设置/屏幕分辨率.md",
+    "灵敏度与视角/游戏画面设置/屏幕尺寸.md",
+    "灵敏度与视角/游戏画面设置",
+    "灵敏度与视角/原始输入效用.md",
+    "显示原理/1602A LCD.md",
+    "灵敏度与视角",
+    "显示原理/现代显示屏幕.md",
+    "显示原理/分时复用.md",
+    "电源理解/1 电压产生.md",
+    "电源理解/5 网线回路.md",
+    "电源理解/4 大地电阻.md",
+    "电源理解/3 回路在哪.md",
+    "电源理解/2 电荷平衡.md",
+    "电源理解",
+    "未命名 1.canvas",
     "未命名 1.base",
-    "未命名.base",
-    "API思想/库.md",
-    "windows文件管理/lib 文件夹.md",
-    "windows文件管理",
-    "API思想/binding.md",
-    "API思想/binging.md",
-    "API思想/API本质.md",
-    "API.md",
-    "python项目管理/传统包管理/虚拟环境.md",
-    "python项目管理/Python 库.md",
-    "python项目管理/传统包管理/pip 指令.md",
-    "python项目管理/传统包管理/venv.md",
-    "uv包管理/UV具体使用.md",
-    "uv包管理/UV介绍.md",
-    "API思想",
-    "编译工具/编译类型/编译类型.md",
-    "编译工具/编译工具链.md",
-    "编译工具/编译类型",
-    "移植工具",
-    "常识构建",
-    "常识构建/命令行工具/GUI与CLI.md",
-    "常识构建/命令行工具/软件运行的不同.md",
-    "编译工具/GCC与LLVM/posix与win32.md",
-    "编译工具/GCC与LLVM/LLVM.md",
-    "编译工具/GCC与LLVM/GCC.md",
-    "编译工具/GCC与LLVM/设计模式差异/GCC本质.md",
-    "编译工具/GCC与LLVM/设计模式差异/LLVM思想.md",
-    "编译工具/GCC与LLVM/设计模式差异/支持差异.md",
-    "编译工具/GCC与LLVM/设计模式差异/开发模式.md",
-    "常识构建/异构编程/代码执行位置.md",
-    "编译工具/GCC与LLVM/设计模式差异",
-    "移植工具/虚拟机",
-    "移植工具/数据库",
     "未命名.canvas",
+    "未命名.base",
+    "计算机外设",
+    "图灵机",
+    "显示原理",
+    "移动通讯/SIM卡",
+    "Pasted image 20250526153903.png",
+    "接口与协议/具体细节/Pasted image 20250526152704.png",
     "从零理解cpu/图片附件/Pasted image 20241019153007.jpg",
     "从零理解cpu/图片附件/Pasted image 20241019153211.png",
     "从零理解cpu/图片附件/640.gif",
@@ -205,8 +212,6 @@
     "从零理解cpu/图片附件/Pasted image 20241019154434.jpg",
     "Pasted image 20241019153106.jpg",
     "Pasted image 20241019153043.jpg",
-    "从零理解计算机/图片附件/Pasted image 20240921183914.png",
-    "从零理解计算机/图片附件/Pasted image 20240921183722.png",
-    "理解计算机/图片附件/640.jpg"
+    "从零理解计算机/图片附件/Pasted image 20240921183914.png"
   ]
 }
