@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "字符编码/Unicode与UTF-8.md",
+                "file": "字符编码/字符编码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unicode与UTF-8"
+              "title": "字符编码"
             }
           }
         ]
@@ -164,11 +164,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ac415139ce91c40",
+  "active": "a696b5f152de1208",
   "lastOpenFiles": [
+    "计算机体系结构/寄存器/寄存器种类.md",
+    "计算机理解/cpu乱序执行.md",
+    "操作系统/android/跨设备现象.md",
+    "字符编码/Unicode与UTF-8.md",
     "字符编码/字符编码.md",
     "操作系统/windows/dll 文件.md",
-    "计算机理解/cpu乱序执行.md",
     "计算机理解/cpu位数.md",
     "计算机理解/cpu寻址.md",
     "计算机理解/cpu核心构成.md",
@@ -191,9 +194,6 @@
     "编程工具链/命令行工具",
     "计算机体系结构/寄存器/物理寄存器与逻辑寄存器.md",
     "计算机体系结构/指令集架构/ISA构成.md",
-    "计算机体系结构/寄存器/寄存器数量.md",
-    "计算机体系结构/寄存器/寄存器容量.md",
-    "存储/存储单位.md",
     "计算机理解",
     "编程工具链/GCC与LLVM",
     "编程工具链/运行环境",

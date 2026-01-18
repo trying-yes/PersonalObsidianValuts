@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 linux  (ubuntu)/软件更新器/2 第三方源添加.md",
+                "file": "linu使用/openssh/SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 第三方源添加"
+              "title": "SSH"
             }
           }
         ]
@@ -163,20 +163,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f084b6ecfe7506a3",
+  "active": "8ac415139ce91c40",
   "lastOpenFiles": [
-    "0 linux  (ubuntu)/终端指令/mkdir.md",
-    "0 linux  (ubuntu)/软件更新器/2 第三方源添加.md",
-    "0 linux  (ubuntu)/软件更新器/1 apt源.md",
-    "0 linux  (ubuntu)/软件更新器/0 软件更新器.md",
+    "linu使用/openssh",
+    "linu使用/终端指令/mkdir.md",
+    "linu使用/终端指令/ls etc.md",
+    "linu使用/软件更新器/2 第三方源添加.md",
+    "linu使用/软件更新器/1 apt源.md",
+    "linu使用/软件更新器/0 软件更新器.md",
+    "linu使用/openssh/SSH.md",
     "1 安装系统/安装工具.md",
-    "0 linux  (ubuntu)/终端指令",
-    "0 linux  (ubuntu)/软件更新器",
-    "2 专业知识/程序分配.md",
-    "2 专业知识",
-    "2 专业知识/如何分配.md",
-    "0 linux  (ubuntu)",
-    "2 专业知识/缓冲区溢出.md",
+    "专业知识/缓冲区溢出.md",
+    "专业知识/程序分配.md",
+    "专业知识/如何分配.md",
+    "linu使用/终端指令",
+    "linu使用/软件更新器",
+    "专业知识",
+    "linu使用",
     "1 安装系统",
     "欢迎.md",
     "灵敏度与视角/补充：CS2 的 fov.md",
@@ -195,9 +198,6 @@
     "usb接口与协议/USB线材快充.md",
     "usb接口与协议/usb数据传输协议.md",
     "usb接口与协议/E-maker芯片.md",
-    "usb接口与协议/电源适配器.md",
-    "电源理解/5 网线回路.md",
-    "电源理解/4 大地电阻.md",
     "电源理解",
     "未命名 1.canvas",
     "未命名 1.base",

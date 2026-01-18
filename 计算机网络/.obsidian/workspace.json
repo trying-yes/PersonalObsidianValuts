@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 自建服务器/cloudflare/tunnel技术解析.md",
+                "file": "6 自建服务器/内网穿透/什么是内网穿透.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tunnel技术解析"
+              "title": "什么是内网穿透"
             }
           }
         ]
@@ -172,10 +172,15 @@
   },
   "active": "b55f0c1c16a1f528",
   "lastOpenFiles": [
+    "6 自建服务器/cloudflare/cloudflare条款.md",
     "6 自建服务器/cloudflare/cloudeflare tunnel.md",
     "6 自建服务器/cloudflare/tunnel技术解析.md",
+    "6 自建服务器/内网穿透/cloudflare代理.md",
+    "5 代理/2 ip购买/指纹浏览器.md",
     "socket接口.md",
+    "6 自建服务器/内网穿透/什么是内网穿透.md",
     "5 代理/5 VPN/VPN具体实现TUN.md",
+    "5 代理/5 VPN/VPN.md",
     "3 网络层/ipv4与聚合/ip作用示范.md",
     "3 网络层/端口作用.md",
     "3 网络层/？.md",
@@ -183,13 +188,11 @@
     "6 自建服务器/域名那些事/域名注册商.md",
     "6 自建服务器/域名那些事/CNAME.md",
     "6 自建服务器/域名那些事/DNS托管.md",
-    "6 自建服务器/cloudflare/cloudflare条款.md",
-    "6 自建服务器/无公网ip/内网穿透.md",
     "6 自建服务器/域名那些事",
     "6 自建服务器/cloudflare",
     "5 代理/0 CFW起源/梯子服务商细则.md",
     "6 自建服务器/cloudflare/域名",
-    "6 自建服务器/无公网ip",
+    "6 自建服务器/内网穿透",
     "0 计算机网络/0 七层网络层次.md",
     "6 自建服务器",
     "1 应用层/应用层加密协议/TSL  SSL.md",
@@ -198,12 +201,9 @@
     "0 计算机网络/1 传输层级.md",
     "0 计算机网络/3 不同层级的网络代理.md",
     "5 代理/3 steam++/本地反代.md",
-    "5 代理/5 VPN/VPN.md",
     "5 代理/未命名.md",
     "4 链路层/4 其余不常见链路层协议/链路层总览.md",
     "4 物理层/4 物理层.md",
-    "5 代理/5 代理.md",
-    "5 代理/1 clash/1 clash.md",
     "5 代理/4 代理技术详解",
     "5 代理/2 ip购买",
     "5 代理/3 steam++",
